@@ -3,11 +3,9 @@
 #of big busses that should be hired.
 
 
-#Rugby Team
 T = 15
-
-#Big busses can carry 38 passengers
 B = 38
 
-b = int(input("How many big busses? "))
-print("Number of teams =", (B * b) // T)
+t = int(input("How many teams? "))
+
+print("Number of buses is =", (T * t) // B+1)
