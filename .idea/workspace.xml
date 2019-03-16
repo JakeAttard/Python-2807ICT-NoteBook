@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30a27ded-274c-4882-a556-7027fa7ceb63" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LectureWeek4/lectureExample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkshopWeek4/linesHashes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkshopWeek4/problem1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkshopWeek4/problem3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,14 +16,18 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/PythonExamples$carbs1.coverage" NAME="carbs1 Coverage Results" MODIFIED="1552008307019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonExamples$square.coverage" NAME="square Coverage Results" MODIFIED="1552364939915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LectureWeek2Examples" />
-    <SUITE FILE_PATH="coverage/PythonExamples$guessMagicNumber.coverage" NAME="guessMagicNumber Coverage Results" MODIFIED="1552181175132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LectureWeek3Examples" />
     <SUITE FILE_PATH="coverage/PythonExamples$busCompany.coverage" NAME="busCompany Coverage Results" MODIFIED="1552353960420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkshopWeek3" />
+    <SUITE FILE_PATH="coverage/PythonExamples$triangleHashes.coverage" NAME="triangleHashes Coverage Results" MODIFIED="1552738166147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkshopWeek4" />
     <SUITE FILE_PATH="coverage/PythonExamples$guessMagicNesting.coverage" NAME="guessMagicNesting Coverage Results" MODIFIED="1552181371930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LectureWeek3Examples" />
-    <SUITE FILE_PATH="coverage/PythonExamples$cameraPay.coverage" NAME="cameraPay Coverage Results" MODIFIED="1552381619910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkshopWeek3" />
     <SUITE FILE_PATH="coverage/PythonExamples$test.coverage" NAME="test Coverage Results" MODIFIED="1552008331832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/PythonExamples$bus.coverage" NAME="bus Coverage Results" MODIFIED="1552381787356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkshopWeek3" />
-    <SUITE FILE_PATH="coverage/PythonExamples$lectureExample.coverage" NAME="lectureExample Coverage Results" MODIFIED="1552623669222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LectureWeek4" />
+    <SUITE FILE_PATH="coverage/PythonExamples$lectureExample.coverage" NAME="lectureExample Coverage Results" MODIFIED="1552736591105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LectureWeek4" />
     <SUITE FILE_PATH="coverage/PythonExamples$salesperson.coverage" NAME="salesperson Coverage Results" MODIFIED="1552364916671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkshopWeek3" />
+    <SUITE FILE_PATH="coverage/PythonExamples$problem1.coverage" NAME="problem1 Coverage Results" MODIFIED="1552741174440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkshopWeek4" />
+    <SUITE FILE_PATH="coverage/PythonExamples$guessMagicNumber.coverage" NAME="guessMagicNumber Coverage Results" MODIFIED="1552181175132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LectureWeek3Examples" />
+    <SUITE FILE_PATH="coverage/PythonExamples$cameraPay.coverage" NAME="cameraPay Coverage Results" MODIFIED="1552381619910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkshopWeek3" />
+    <SUITE FILE_PATH="coverage/PythonExamples$linesHashes.coverage" NAME="linesHashes Coverage Results" MODIFIED="1552741943134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkshopWeek4" />
+    <SUITE FILE_PATH="coverage/PythonExamples$hashLines.coverage" NAME="hashLines Coverage Results" MODIFIED="1552735466247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkshopWeek4" />
     <SUITE FILE_PATH="coverage/PythonExamples$statementsExample.coverage" NAME="statementsExample Coverage Results" MODIFIED="1552019693872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LectureWeek2Examples" />
     <SUITE FILE_PATH="coverage/PythonExamples$koalaUniversity.coverage" NAME="koalaUniversity Coverage Results" MODIFIED="1552182192278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkshopWeek3" />
   </component>
@@ -39,11 +45,47 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LectureWeek4/lectureExample.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1203">
-              <caret line="130" column="9" selection-start-line="130" selection-start-column="9" selection-end-line="130" selection-end-column="9" />
+            <state relative-caret-position="357">
+              <caret line="111" column="22" lean-forward="true" selection-start-line="111" selection-start-column="22" selection-end-line="111" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WorkshopWeek4/problem3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="6" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WorkshopWeek4/linesHashes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WorkshopWeek4/problem1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="53" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WorkshopWeek3/cameraPay.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -75,7 +117,12 @@
         <option value="$PROJECT_DIR$/WorkshopWeek3/cameraPay.py" />
         <option value="$PROJECT_DIR$/WorkshopWeek3/bus.py" />
         <option value="$PROJECT_DIR$/LectureWeek4/lectureexample2.py" />
+        <option value="$PROJECT_DIR$/WorkshopWeek4/lines.py" />
+        <option value="$PROJECT_DIR$/WorkshopWeek4/hashLines.py" />
         <option value="$PROJECT_DIR$/LectureWeek4/lectureExample.py" />
+        <option value="$PROJECT_DIR$/WorkshopWeek4/triangleHashes.py" />
+        <option value="$PROJECT_DIR$/WorkshopWeek4/problem1.py" />
+        <option value="$PROJECT_DIR$/WorkshopWeek4/linesHashes.py" />
       </list>
     </option>
   </component>
@@ -102,6 +149,16 @@
               <item name="PythonExamples" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonExamples" type="462c0819:PsiDirectoryNode" />
               <item name="LectureWeek4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonExamples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonExamples" type="462c0819:PsiDirectoryNode" />
+              <item name="WorkshopWeek3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonExamples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonExamples" type="462c0819:PsiDirectoryNode" />
+              <item name="WorkshopWeek4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -136,8 +193,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.lectureExample">
-    <configuration name="bus" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.linesHashes">
+    <configuration name="hashLines" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonExamples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,34 +202,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WorkshopWeek3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WorkshopWeek4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WorkshopWeek3/bus.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="cameraPay" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonExamples" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WorkshopWeek3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WorkshopWeek3/cameraPay.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\JakeC\Desktop\PythonExamples\WorkshopWeek4\problem3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,7 +238,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="salesperson" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="linesHashes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonExamples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -211,12 +246,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WorkshopWeek3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WorkshopWeek4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\JakeC\Desktop\PythonExamples\WorkshopWeek3\cameraPay.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WorkshopWeek4/linesHashes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -225,7 +260,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="square" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="problem1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonExamples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -233,12 +268,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LectureWeek2Examples" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WorkshopWeek4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LectureWeek2Examples/square.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WorkshopWeek4/problem1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="triangleHashes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonExamples" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WorkshopWeek4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\JakeC\Desktop\PythonExamples\WorkshopWeek4\problem3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -249,11 +306,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.linesHashes" />
+        <item itemvalue="Python.problem1" />
+        <item itemvalue="Python.triangleHashes" />
         <item itemvalue="Python.lectureExample" />
-        <item itemvalue="Python.bus" />
-        <item itemvalue="Python.cameraPay" />
-        <item itemvalue="Python.square" />
-        <item itemvalue="Python.salesperson" />
+        <item itemvalue="Python.hashLines" />
       </list>
     </recent_temporary>
   </component>
@@ -273,18 +330,19 @@
       <workItem from="1552306337577" duration="3188000" />
       <workItem from="1552353073181" duration="5224000" />
       <workItem from="1552367686225" duration="4278000" />
-      <workItem from="1552618885610" duration="4787000" />
+      <workItem from="1552618885610" duration="4789000" />
+      <workItem from="1552719325909" duration="286000" />
+      <workItem from="1552735207118" duration="6728000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24753000" />
+    <option name="totallyTimeSpent" value="31769000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1513" height="973" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2701031" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27766323" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -340,31 +398,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WorkshopWeek3/bus.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WorkshopWeek2/rugbyTeam.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="7" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WorkshopWeek3/cameraPay.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WorkshopWeek3/koalaUni.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -375,6 +412,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LectureWeek4/lectureexample2.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/LectureWeek3Examples/guessMagicNesting.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -382,13 +427,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LectureWeek4/lectureexample2.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/WorkshopWeek4/problem3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LectureWeek4/lectureExample.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1203">
-          <caret line="130" column="9" selection-start-line="130" selection-start-column="9" selection-end-line="130" selection-end-column="9" />
+        <state relative-caret-position="357">
+          <caret line="111" column="22" lean-forward="true" selection-start-line="111" selection-start-column="22" selection-end-line="111" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WorkshopWeek3/cameraPay.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WorkshopWeek3/bus.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WorkshopWeek3/koalaUni.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WorkshopWeek4/problem1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="53" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WorkshopWeek4/linesHashes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
         </state>
       </provider>
     </entry>
