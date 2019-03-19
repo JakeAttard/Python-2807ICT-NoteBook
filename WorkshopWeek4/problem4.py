@@ -4,6 +4,11 @@ smallBuses = 10
 costBigBuses = 200.00
 costSmallBuses = 95.00
 
-teams = int(input("How many teams? "))
-while(teams <= 1):
-    print("Hire ", teams, "")
+rugbyTeam = rugbyTeam*int(input("How many teams? "))
+
+if(rugbyTeam%bigBuses)>= 20:
+    print("Hire ", rugbyTeam // bigBuses + 1, "big buses and", 0, "small buses")
+    print("Cost = $", (rugbyTeam // bigBuses+1)*costBigBuses)
+else:
+    print("Hire ", rugbyTeam // bigBuses, "big buses and", (rugbyTeam % bigBuses // smallBuses)+1, "small buses")
+    print("Cost = $", ((rugbyTeam // bigBuses) * costBigBuses) + ((rugbyTeam % bigBuses // smallBuses)+1)*costSmallBuses)
