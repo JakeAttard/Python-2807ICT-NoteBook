@@ -1,9 +1,17 @@
-S = input("Enter a string: ")
+while True:
+    enterString = input("Enter a string: ")
 
-def isPalindrome(S):
-    for i in range(0, len(S)):
-        if S[0 + i] == S[len(S) - 1]:
-            return "It is a palindrome!"
-        else:
-            return "It is not a palindrome!"
-print(isPalindrome(S))
+    stringlist = []
+
+    for i in enterString:
+        stringlist.append(i)
+    stringlist.reverse()
+
+    reverse = ''.join(stringlist)
+
+    if not stringlist:
+        break
+    elif reverse == enterString:
+        print("It is a palindrome!")
+    else:
+        print("It is not a palindrome!")

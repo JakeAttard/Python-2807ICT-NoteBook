@@ -17,13 +17,3 @@
 #         median = c
 #
 # print("The median is", median)
-
-numberEntered = float(input("Enter a number: "))
-numberEntered2 = 1
-while numberEntered2 != 0:
-    numberEntered2 = float(input("Enter a number: "))
-    if numberEntered2 > numberEntered:
-        median = numberEntered
-    else:
-        numberEntered = numberEntered
-print("Median: '{}'" .format(median))
