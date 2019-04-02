@@ -11,9 +11,9 @@ numbersList = sorted(numbersList)
 median = 0
 
 if len(numbersList)%2 == 0:
-    mid1 = int(len(numbersList)/2+0.5)
-    mid2 = int(len(numbersList)/2-0.5)
-    median = (int(numbersList[mid1])+int(numbersList[mid2]))/2
+    middle1 = int(len(numbersList)/2+0.5)
+    middle2 = int(len(numbersList)/2-0.5)
+    median = (int(numbersList[middle1])+int(numbersList[middle2]))/2
 else:
     median = numbersList[int(len(numbersList)/2)]
 
