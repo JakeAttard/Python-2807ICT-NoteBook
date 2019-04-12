@@ -1,28 +1,24 @@
 def function(list, diff):
-    state = 0
+    counter = 1
     for a in list[::2]:
         for b in list[1::2]:
             if int(b) - int(a) == diff:
-                state = 1
+                counter += 1
             elif int(b) - int(a) == -1 * diff:
-                state = 1
+                counter += 1
             else:
-                state = 0
                 break
-    return state
+    return counter
 
 def testString(a):
     list1 = a.split()
     if len(a) == 1:
-        print("True")
+        print(1)
     elif len(a) == 0:
         exit()
     else:
         difference = int(list1[1]) - int(list1[0])
-        if function(list1, difference) == 0:
-            print("False")
-        else:
-            print("True")
+        print(function(list1, difference))
 
 
 a = input("List: ")
