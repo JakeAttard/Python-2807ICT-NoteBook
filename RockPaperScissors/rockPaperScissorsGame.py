@@ -3,7 +3,7 @@ print("...paper...")
 print("...scissors...")
 
 player1 = input("Enter Player 1 choice: ")
-print("***Don't look!***\n" * 20)
+print("***Don't look!***\n" * 30)
 player2 = input("Enter Player 2 choice: ")
 
 if player1 == "rock":

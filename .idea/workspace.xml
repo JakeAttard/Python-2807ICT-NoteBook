@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30a27ded-274c-4882-a556-7027fa7ceb63" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/RockPaperScissors/rockPaperScissorsGame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RockPaperScissors/scissorsPaperRockComputerAIGame.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RockPaperScissors/rockPaperScissorsGame.py" beforeDir="false" afterPath="$PROJECT_DIR$/RockPaperScissors/rockPaperScissorsGame.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,19 +45,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WorkshopWeek8/problem2.py">
+        <entry file="file://$PROJECT_DIR$/WorkshopWeek8/problem1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="22" selection-start-column="22" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WorkshopWeek8/problem3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+            <state relative-caret-position="170">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -78,11 +71,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RockPaperScissors/rockPaperScissorsGame.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+            <state relative-caret-position="76">
+              <caret line="16" column="25" lean-forward="true" selection-end-line="30" selection-end-column="78" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RockPaperScissors/scissorsPaperRockComputerAIGame.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="313">
+              <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -195,10 +197,11 @@
         <option value="$PROJECT_DIR$/WorkshopWeek8/examples.py" />
         <option value="$PROJECT_DIR$/WorkshopWeek8/problem6.py" />
         <option value="$PROJECT_DIR$/RockPaperScissors/rockPaperScissorsGame.py" />
+        <option value="$PROJECT_DIR$/RockPaperScissors/scissorsPaperRockComputerAIGame.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="120" />
     <option name="y" value="114" />
     <option name="width" value="2800" />
@@ -221,6 +224,11 @@
               <item name="PythonExamples" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonExamples" type="462c0819:PsiDirectoryNode" />
               <item name="RockPaperScissors" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonExamples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonExamples" type="462c0819:PsiDirectoryNode" />
+              <item name="WorkshopWeek8" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -257,7 +265,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.rockPaperScissorsGame">
+  <component name="RunManager" selected="Python.scissorsPaperRockComputerAIGame">
     <configuration name="examples" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonExamples" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -272,28 +280,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WorkshopWeek8/examples.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="problem3 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonExamples" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WorkshopWeek8" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WorkshopWeek8/problem3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -368,13 +354,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="scissorsPaperRockComputerAIGame" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonExamples" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RockPaperScissors" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RockPaperScissors/scissorsPaperRockComputerAIGame.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.scissorsPaperRockComputerAIGame" />
         <item itemvalue="Python.rockPaperScissorsGame" />
         <item itemvalue="Python.problem6" />
         <item itemvalue="Python.examples" />
         <item itemvalue="Python.problem5" />
-        <item itemvalue="Python.problem3 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -418,22 +426,22 @@
       <workItem from="1554890294708" duration="594000" />
       <workItem from="1554901358312" duration="7250000" />
       <workItem from="1554979300819" duration="10813000" />
-      <workItem from="1555145947613" duration="1949000" />
+      <workItem from="1555145947613" duration="4321000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="126242000" />
+    <option name="totallyTimeSpent" value="128614000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1513" height="973" extended-state="6" />
+    <frame x="-7" y="-7" width="1513" height="973" extended-state="7" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49881518" visible="true" weight="0.17158546" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.5011848" side_tool="true" weight="0.15305422" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29976302" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.51184833" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3992891" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -484,12 +492,13 @@
     <SUITE FILE_PATH="coverage/PythonExamples$Problem2.coverage" NAME="Problem2 Coverage Results" MODIFIED="1554177634025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkshopWeek6" />
     <SUITE FILE_PATH="coverage/PythonExamples$Problem1.coverage" NAME="Problem1 Coverage Results" MODIFIED="1554177686661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkshopWeek6" />
     <SUITE FILE_PATH="coverage/PythonExamples$problem6.coverage" NAME="problem6 Coverage Results" MODIFIED="1555047100564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkshopWeek8" />
+    <SUITE FILE_PATH="coverage/PythonExamples$scissorsPaperRockComputerAIGame.coverage" NAME="scissorsPaperRockComputerAIGame Coverage Results" MODIFIED="1555152234218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RockPaperScissors" />
     <SUITE FILE_PATH="coverage/PythonExamples$problem1.coverage" NAME="problem1 Coverage Results" MODIFIED="1554719071362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkshopWeek7" />
     <SUITE FILE_PATH="coverage/PythonExamples$problem5.coverage" NAME="problem5 Coverage Results" MODIFIED="1555034298730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkshopWeek8" />
     <SUITE FILE_PATH="coverage/PythonExamples$problem1__1_.coverage" NAME="problem1 (1) Coverage Results" MODIFIED="1554941701717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkshopWeek8" />
     <SUITE FILE_PATH="coverage/PythonExamples$problem2__1_.coverage" NAME="problem2 (1) Coverage Results" MODIFIED="1554947109180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkshopWeek8" />
     <SUITE FILE_PATH="coverage/PythonExamples$problem4.coverage" NAME="problem4 Coverage Results" MODIFIED="1555032880003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkshopWeek8" />
-    <SUITE FILE_PATH="coverage/PythonExamples$rockPaperScissorsGame.coverage" NAME="rockPaperScissorsGame Coverage Results" MODIFIED="1555148048606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RockPaperScissors" />
+    <SUITE FILE_PATH="coverage/PythonExamples$rockPaperScissorsGame.coverage" NAME="rockPaperScissorsGame Coverage Results" MODIFIED="1555148478721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RockPaperScissors" />
     <SUITE FILE_PATH="coverage/PythonExamples$problem3.coverage" NAME="problem3 Coverage Results" MODIFIED="1554719110578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkshopWeek7" />
     <SUITE FILE_PATH="coverage/PythonExamples$problem3__1_.coverage" NAME="problem3 (1) Coverage Results" MODIFIED="1555033335102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkshopWeek8" />
     <SUITE FILE_PATH="coverage/PythonExamples$Problem3.coverage" NAME="Problem3 Coverage Results" MODIFIED="1554007361749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkshopWeek6" />
@@ -703,13 +712,6 @@
     <entry file="file://$PROJECT_DIR$/WorkshopWeek7/Lear.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/WorkshopWeek8/problem1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WorkshopWeek8/problem2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -775,8 +777,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/RockPaperScissors/rockPaperScissorsGame.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+        <state relative-caret-position="76">
+          <caret line="16" column="25" lean-forward="true" selection-end-line="30" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WorkshopWeek8/problem1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RockPaperScissors/scissorsPaperRockComputerAIGame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
         </state>
       </provider>
     </entry>
