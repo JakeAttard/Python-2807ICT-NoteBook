@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30a27ded-274c-4882-a556-7027fa7ceb63" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/GuessingGame/guessingGame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentPratice/follows.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentPratice/stream.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkshopWeek9/problem1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkshopWeek9/wordsFreqExample.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,46 +50,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WorkshopWeek8/problem6.py">
+        <entry file="file://$PROJECT_DIR$/WorkshopWeek9/problem1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WorkshopWeek8/examples.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RockPaperScissors/rockPaperScissorsGame.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="25" selection-end-line="30" selection-end-column="78" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RockPaperScissors/scissorsPaperRockComputerAIGame.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+            <state relative-caret-position="119">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/GuessingGame/guessingGame.py">
+        <entry file="file://$PROJECT_DIR$/WorkshopWeek9/wordsFreqExample.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+            <state relative-caret-position="306">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WorkshopWeek7/scores.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="20" selection-end-line="17" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WorkshopWeek8/problem2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" selection-end-line="20" selection-end-column="68" />
             </state>
           </provider>
         </entry>
@@ -94,8 +88,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WorkshopWeek8/problem4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="25" lean-forward="true" selection-end-line="31" selection-end-column="17" />
+            <state relative-caret-position="476">
+              <caret line="28" column="13" selection-end-line="31" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -103,17 +97,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WorkshopWeek8/problem5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+            <state relative-caret-position="442">
+              <caret line="26" column="17" selection-end-line="27" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WorkshopWeek6/PreworkshopCode.py">
+        <entry file="file://$PROJECT_DIR$/WorkshopWeek8/problem6.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="48" column="9" selection-start-line="48" selection-end-line="49" selection-end-column="37" />
+            <state relative-caret-position="408">
+              <caret line="24" column="54" selection-start-line="24" selection-start-column="54" selection-end-line="24" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WorkshopWeek8/problem3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="23" selection-end-line="48" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -151,7 +154,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test/test.py" />
         <option value="$PROJECT_DIR$/LectureWeek2Examples/statements.py" />
         <option value="$PROJECT_DIR$/LectureWeek2Examples/statementsExample.py" />
         <option value="$PROJECT_DIR$/LectureWeek2Examples/print.py" />
@@ -192,7 +194,6 @@
         <option value="$PROJECT_DIR$/WorkshopWeek7/problem2.py" />
         <option value="$PROJECT_DIR$/WorkshopWeek7/head.py" />
         <option value="$PROJECT_DIR$/WorkshopWeek8/problem2.py" />
-        <option value="$PROJECT_DIR$/WorkshopWeek8/problem4.py" />
         <option value="$PROJECT_DIR$/WorkshopWeek8/problem3.py" />
         <option value="$PROJECT_DIR$/WorkshopWeek8/problem1.py" />
         <option value="$PROJECT_DIR$/WorkshopWeek8/problem5.py" />
@@ -201,12 +202,15 @@
         <option value="$PROJECT_DIR$/RockPaperScissors/rockPaperScissorsGame.py" />
         <option value="$PROJECT_DIR$/RockPaperScissors/scissorsPaperRockComputerAIGame.py" />
         <option value="$PROJECT_DIR$/GuessingGame/guessingGame.py" />
+        <option value="$PROJECT_DIR$/WorkshopWeek8/problem4.py" />
+        <option value="$PROJECT_DIR$/WorkshopWeek9/problem1.py" />
+        <option value="$PROJECT_DIR$/WorkshopWeek9/example.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="120" />
-    <option name="y" value="114" />
+    <option name="x" value="390" />
+    <option name="y" value="68" />
     <option name="width" value="2800" />
     <option name="height" value="1840" />
   </component>
@@ -226,12 +230,17 @@
             <path>
               <item name="PythonExamples" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonExamples" type="462c0819:PsiDirectoryNode" />
-              <item name="GuessingGame" type="462c0819:PsiDirectoryNode" />
+              <item name="WorkshopWeek7" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PythonExamples" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonExamples" type="462c0819:PsiDirectoryNode" />
               <item name="WorkshopWeek8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonExamples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonExamples" type="462c0819:PsiDirectoryNode" />
+              <item name="WorkshopWeek9" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -249,11 +258,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\JakeC\Desktop\PythonExamples\AssignmentPratice" />
       <recent name="C:\Users\JakeC\Desktop\PythonExamples\WorkshopWeek7" />
       <recent name="C:\Users\JakeC\Desktop\PythonExamples\LectureWeek3Examples" />
       <recent name="C:\Users\JakeC\Desktop\PythonExamples\WorkshopWeek2" />
       <recent name="C:\Users\JakeC\Desktop\PythonExamples\LectureWeek2Examples" />
-      <recent name="C:\Users\JakeC\Desktop\PythonExamples" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -268,29 +277,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.guessingGame">
-    <configuration name="examples" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonExamples" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WorkshopWeek8" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WorkshopWeek8/examples.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.wordsFreqExample">
     <configuration name="guessingGame" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonExamples" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -313,7 +300,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="problem6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="problem1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonExamples" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WorkshopWeek9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WorkshopWeek9/problem1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="problem1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonExamples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -326,7 +335,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WorkshopWeek8/problem6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WorkshopWeek8/problem1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -335,7 +344,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="rockPaperScissorsGame" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="problem2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonExamples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -343,12 +352,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RockPaperScissors" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WorkshopWeek8" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RockPaperScissors/rockPaperScissorsGame.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WorkshopWeek8/problem2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -357,7 +366,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="scissorsPaperRockComputerAIGame" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="wordsFreqExample" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonExamples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -365,12 +374,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RockPaperScissors" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WorkshopWeek9" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RockPaperScissors/scissorsPaperRockComputerAIGame.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WorkshopWeek9/wordsFreqExample.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -381,11 +390,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.wordsFreqExample" />
+        <item itemvalue="Python.problem1 (1)" />
+        <item itemvalue="Python.problem2" />
+        <item itemvalue="Python.problem1" />
         <item itemvalue="Python.guessingGame" />
-        <item itemvalue="Python.scissorsPaperRockComputerAIGame" />
-        <item itemvalue="Python.rockPaperScissorsGame" />
-        <item itemvalue="Python.problem6" />
-        <item itemvalue="Python.examples" />
       </list>
     </recent_temporary>
   </component>
@@ -430,22 +439,34 @@
       <workItem from="1554901358312" duration="7250000" />
       <workItem from="1554979300819" duration="10813000" />
       <workItem from="1555145947613" duration="4354000" />
-      <workItem from="1555383602906" duration="826000" />
+      <workItem from="1555383602906" duration="1107000" />
+      <workItem from="1555465822608" duration="4573000" />
+      <workItem from="1555726671549" duration="597000" />
+      <workItem from="1555930441701" duration="631000" />
+      <workItem from="1555983895103" duration="1249000" />
+      <workItem from="1556098538093" duration="390000" />
+      <workItem from="1556243398218" duration="270000" />
+      <workItem from="1556245851111" duration="3188000" />
+      <workItem from="1556438219312" duration="417000" />
+      <workItem from="1556591213401" duration="3869000" />
+      <workItem from="1556604639353" duration="653000" />
+      <workItem from="1556694731524" duration="2541000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="129473000" />
+    <option name="totallyTimeSpent" value="148132000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1513" height="973" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49881518" visible="true" weight="0.17364447" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49881518" visible="true" weight="0.20109814" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.5011848" side_tool="true" weight="0.15305422" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26658767" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21327014" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3992891" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -490,40 +511,26 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonExamples$problem2.coverage" NAME="problem2 Coverage Results" MODIFIED="1554719091783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkshopWeek7" />
     <SUITE FILE_PATH="coverage/PythonExamples$examples.coverage" NAME="examples Coverage Results" MODIFIED="1555041853801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkshopWeek8" />
+    <SUITE FILE_PATH="coverage/PythonExamples$problem2.coverage" NAME="problem2 Coverage Results" MODIFIED="1555468838287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkshopWeek8" />
     <SUITE FILE_PATH="coverage/PythonExamples$PreworkshopCode.coverage" NAME="PreworkshopCode Coverage Results" MODIFIED="1554178198423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkshopWeek6" />
     <SUITE FILE_PATH="coverage/PythonExamples$Problem2.coverage" NAME="Problem2 Coverage Results" MODIFIED="1554177634025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkshopWeek6" />
     <SUITE FILE_PATH="coverage/PythonExamples$Problem1.coverage" NAME="Problem1 Coverage Results" MODIFIED="1554177686661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkshopWeek6" />
     <SUITE FILE_PATH="coverage/PythonExamples$problem6.coverage" NAME="problem6 Coverage Results" MODIFIED="1555047100564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkshopWeek8" />
-    <SUITE FILE_PATH="coverage/PythonExamples$scissorsPaperRockComputerAIGame.coverage" NAME="scissorsPaperRockComputerAIGame Coverage Results" MODIFIED="1555152234218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RockPaperScissors" />
-    <SUITE FILE_PATH="coverage/PythonExamples$problem1.coverage" NAME="problem1 Coverage Results" MODIFIED="1554719071362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkshopWeek7" />
+    <SUITE FILE_PATH="coverage/PythonExamples$scissorsPaperRockComputerAIGame.coverage" NAME="scissorsPaperRockComputerAIGame Coverage Results" MODIFIED="1555467743812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RockPaperScissors" />
+    <SUITE FILE_PATH="coverage/PythonExamples$problem1.coverage" NAME="problem1 Coverage Results" MODIFIED="1555468326241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkshopWeek8" />
     <SUITE FILE_PATH="coverage/PythonExamples$problem5.coverage" NAME="problem5 Coverage Results" MODIFIED="1555034298730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkshopWeek8" />
-    <SUITE FILE_PATH="coverage/PythonExamples$guessingGame.coverage" NAME="guessingGame Coverage Results" MODIFIED="1555406662865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuessingGame" />
-    <SUITE FILE_PATH="coverage/PythonExamples$problem1__1_.coverage" NAME="problem1 (1) Coverage Results" MODIFIED="1554941701717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkshopWeek8" />
+    <SUITE FILE_PATH="coverage/PythonExamples$guessingGame.coverage" NAME="guessingGame Coverage Results" MODIFIED="1555467756314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuessingGame" />
+    <SUITE FILE_PATH="coverage/PythonExamples$wordsFreqExample.coverage" NAME="wordsFreqExample Coverage Results" MODIFIED="1556760406995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkshopWeek9" />
     <SUITE FILE_PATH="coverage/PythonExamples$problem2__1_.coverage" NAME="problem2 (1) Coverage Results" MODIFIED="1554947109180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkshopWeek8" />
     <SUITE FILE_PATH="coverage/PythonExamples$problem4.coverage" NAME="problem4 Coverage Results" MODIFIED="1555032880003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkshopWeek8" />
+    <SUITE FILE_PATH="coverage/PythonExamples$problem1__1_.coverage" NAME="problem1 (1) Coverage Results" MODIFIED="1556598759079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkshopWeek9" />
     <SUITE FILE_PATH="coverage/PythonExamples$rockPaperScissorsGame.coverage" NAME="rockPaperScissorsGame Coverage Results" MODIFIED="1555148478721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RockPaperScissors" />
     <SUITE FILE_PATH="coverage/PythonExamples$problem3.coverage" NAME="problem3 Coverage Results" MODIFIED="1554719110578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkshopWeek7" />
     <SUITE FILE_PATH="coverage/PythonExamples$problem3__1_.coverage" NAME="problem3 (1) Coverage Results" MODIFIED="1555033335102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkshopWeek8" />
     <SUITE FILE_PATH="coverage/PythonExamples$Problem3.coverage" NAME="Problem3 Coverage Results" MODIFIED="1554007361749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WorkshopWeek6" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/test.py" />
-    <entry file="file://$PROJECT_DIR$/LectureWeek2Examples/square.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LectureWeek3Examples/statementsExample.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LectureWeek2Examples/print.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -686,24 +693,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WorkshopWeek7/wc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="14" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WorkshopWeek6/median.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="32" selection-end-line="19" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WorkshopWeek7/scores.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -716,34 +709,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WorkshopWeek7/Lear.txt">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WorkshopWeek8/problem2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WorkshopWeek8/problem3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WorkshopWeek8/problem1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WorkshopWeek8/problem6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WorkshopWeek8/examples.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -759,24 +724,86 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/WorkshopWeek6/PreworkshopCode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="9" selection-start-line="48" selection-end-line="49" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AssignmentPratice/follows.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AssignmentPratice/stream.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RockPaperScissors/scissorsPaperRockComputerAIGame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WorkshopWeek7/wc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessingGame/guessingGame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WorkshopWeek8/problem1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../children.ad">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WorkshopWeek8/problem2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-end-line="20" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/WorkshopWeek8/problem4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="25" lean-forward="true" selection-end-line="31" selection-end-column="17" />
+        <state relative-caret-position="476">
+          <caret line="28" column="13" selection-end-line="31" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WorkshopWeek8/problem5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        <state relative-caret-position="442">
+          <caret line="26" column="17" selection-end-line="27" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WorkshopWeek6/PreworkshopCode.py">
+    <entry file="file://$PROJECT_DIR$/WorkshopWeek8/problem6.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="48" column="9" selection-start-line="48" selection-end-line="49" selection-end-column="37" />
+        <state relative-caret-position="408">
+          <caret line="24" column="54" selection-start-line="24" selection-start-column="54" selection-end-line="24" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WorkshopWeek8/problem3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="23" selection-end-line="48" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -794,17 +821,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RockPaperScissors/scissorsPaperRockComputerAIGame.py">
+    <entry file="file://$PROJECT_DIR$/WorkshopWeek7/scores.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        <state relative-caret-position="289">
+          <caret line="17" column="20" selection-end-line="17" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GuessingGame/guessingGame.py">
+    <entry file="file://$PROJECT_DIR$/WorkshopWeek9/problem1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        <state relative-caret-position="119">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WorkshopWeek9/wordsFreqExample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
