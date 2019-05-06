@@ -1,4 +1,7 @@
-def printCommand(vars, val):
+# script: AdderR.py
+# Adder REPL
+
+def doPrint(vars, val):
     if val.isalpha():
         if val in vars:
             print(val, 'equals', vars[val])
@@ -9,7 +12,7 @@ def printCommand(vars, val):
     else:
         print("Syntax error.")
 
-def inputCommand(vars, var):
+def doInput(vars, var):
     if not var.isalpha():
         print("Syntax error.")
     else:
@@ -19,7 +22,7 @@ def inputCommand(vars, var):
         else:
             print("Syntax error.")
 
-def getsCommand(vars, var, val):
+def doGets(vars, var, val):
     if not var.isalpha():
         print("Syntax error.")
     else:
@@ -33,7 +36,7 @@ def getsCommand(vars, var, val):
         else:
             print("Syntax error.")
 
-def addsCommand(vars, var, val):
+def doAdds(vars, var, val):
     if not var.isalpha():
         print("Syntax error.")
     else:
@@ -56,13 +59,13 @@ command = input("??? ").strip()
 while command != 'quit':
     cs = command.split()
     if len(cs) == 2 and cs[0] == 'print':
-        printCommand(vars, cs[1])
+        doPrint(vars, cs[1])
     elif len(cs) == 2 and cs[0] == 'input':
-        inputCommand(vars, cs[1])
+        doInput(vars, cs[1])
     elif len(cs) == 3 and cs[1] == 'gets':
-        getsCommand(vars, cs[0], cs[2])
+        doGets(vars, cs[0], cs[2])
     elif len(cs) == 3 and cs[1] == 'adds':
-        addsCommand(vars, cs[0], cs[2])
+        doAdds(vars, cs[0], cs[2])
     else:
         print("Syntax error.")
     command = input("??? ")
