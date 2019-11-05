@@ -1,0 +1,8 @@
+Round 1
+Arsenal 0 0 Brighton & Hove Albion
+Liverpool 2 1 West Ham United
+Tottenham Hotspur 3 0 Manchester City
+Round 2
+Brighton & Hove Albion 0 2 West Ham United
+Liverpool 3 1 Tottenham Hotspur
+Manchester City 4 2 Arsenal
